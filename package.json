@@ -1,0 +1,12 @@
+{
+  "name": "cursodev",
+  "version": "1.0.0",
+  "description": "Curso ponto dev do Felipe Dechamps",
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
