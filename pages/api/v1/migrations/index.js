@@ -26,7 +26,7 @@ export default async function migrations(request, response) {
       return response.status(200).json(pendingMigrations);
     }
 
-    if ((request.method = "POST")) {
+    if (request.method == "POST") {
       const migratedMigrations = await migrationRunner({
         ...defaultMigrationsOptions,
         dryRun: false,
