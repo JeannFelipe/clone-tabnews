@@ -1,3 +1,3 @@
 # clone-tabnews
 
-To fazendo o curso do Felipe Dechamps!!!!!!!!!!! Obg Gabriel de Souza!!
+Plataforma web de conteúdo desenvolvida de ponta a ponta para consolidação de práticas avançadas de engenharia de software, testes automatizados (Jest), resiliência de sistemas e CI/CD.
